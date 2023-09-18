@@ -17,7 +17,7 @@ auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth, wait_on_rate_limit=True)
 
 # define search query
-search_words = "New England Patriots"
+search_words = "Your Selected Team Terms Here"
 date_since = "2022-01-01"
 
 # perform the search
