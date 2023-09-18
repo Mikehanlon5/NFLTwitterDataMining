@@ -2,10 +2,10 @@ import tweepy
 import pandas as pd
 
 # set up Twitter API credentials
-consumer_key = 'oLfZuj95jDLYBvve2dfAxQhN1'
-consumer_secret = 'wvROkpIAu0qxc3MI9ndt4K8cfR21Dqj2KoAvnNMtnZ9W0HhHy3'
-access_token = '1496924489946386439-ShhBFsCstq7XwbKn8LRPDdH9Yll5Ij'
-access_token_secret = '6jXn91Dr6z0sPfVJcikS3QvUA0DDeTiH45eu335yWJMrm'
+consumer_key = 'your consumer key here'
+consumer_secret = 'your secret consumer key here'
+access_token = 'your access token here'
+access_token_secret = 'your secret access token here'
 usernames = []
 twts = []
 
